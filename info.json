@@ -1,0 +1,12 @@
+{
+  "name": "straykerbalance",
+  "version": "1.0.0",
+  "factorio_version": "1.0",
+  "title": "Strayker's balance mod",
+  "author": "strayker",
+  "dependencies": [
+    "base >= 1.0.0",
+    "boblibrary >= 1.0.0"
+  ],
+  "description": "балансировка рецептов, предметов, зданий и много другого для сборки модов"
+}

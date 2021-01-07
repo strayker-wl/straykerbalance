@@ -1,0 +1,2 @@
+data.raw.technology["gas-canisters"].prerequisites = {"fluid-handling", "angels-nitrogen-processing-1"}
+data.raw.technology["bobingabout-enrichment-process"].prerequisites = {"thorium-fuel-reprocessing"}

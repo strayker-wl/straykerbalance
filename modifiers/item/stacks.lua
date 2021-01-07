@@ -1,0 +1,1 @@
+data.raw.item["clay-brick"].stack_size = 1000
