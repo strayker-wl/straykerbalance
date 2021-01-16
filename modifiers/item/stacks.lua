@@ -62,7 +62,6 @@ data.raw.item["processing-electronics"].stack_size = 5000
 data.raw.item["motor"].stack_size = 5000
 data.raw.item["electric-motor"].stack_size = 5000
 data.raw.item["explosives"].stack_size = 5000
-data.raw.item["cliff-explosives"].stack_size = 5000
 data.raw.item["battery"].stack_size = 5000
 data.raw.item["lithium-ion-battery"].stack_size = 5000
 data.raw.item["silver-zinc-battery"].stack_size = 5000
